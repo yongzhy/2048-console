@@ -1,7 +1,11 @@
 2048-console
 ============
 
+![Build Status](https://api.travis-ci.org/yongzhy/2048-console.svg?branch=master)
+
 Clone of popular puzzle game 2048 in console
+
+![2048 in console](https://raw.githubusercontent.com/yongzhy/2048-console/master/2048.png)
 
 ### Install
 
@@ -13,5 +17,3 @@ Clone of popular puzzle game 2048 in console
 	$ 2048
 
 	Enjoy
-
-	![2048 in console]((https://github.com/yongzhy/2048-console/raw/master/2048.png))
